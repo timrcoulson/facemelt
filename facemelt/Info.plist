@@ -30,6 +30,8 @@
 	<string>NSApplication</string>
 	<key>NSSupportsAutomaticTermination</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>For melting your face</string>
 	<key>NSSupportsSuddenTermination</key>
 	<true/>
 </dict>
